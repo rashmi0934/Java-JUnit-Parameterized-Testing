@@ -8,14 +8,14 @@ It demonstrates the use of **basic testing**, **parameterized tests**, and **exc
 ## 📌 Features Covered
 
 * ✅ Unit Testing using JUnit 5
-* ✅ '@BeforeEach' and '@AfterEach' lifecycle methods
+* ✅ `@BeforeEach` and `@AfterEach` lifecycle methods
 * ✅ Parameterized Testing using:
-  * '@ValueSource'
-  * '@CsvSource'
-* ✅ Exception Testing using 'assertThrows
+  * `@ValueSource`
+  * `@CsvSource`
+* ✅ Exception Testing using `assertThrows`
 * ✅ Assertions:
-  * 'assertEquals'
-  * 'assertNotEquals'
+  * `assertEquals`
+  * `assertNotEquals`
 
 ---
 
